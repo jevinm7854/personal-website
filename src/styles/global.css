@@ -1,0 +1,30 @@
+.img-edu {
+  max-width: 85%;
+  max-height: 100%;
+
+  width: 60%;
+  height: 95%;
+  border-radius: 25%;
+  padding-top: 5%;
+
+  /* padding-left: 2%; */
+}
+.img-edu-purdue {
+  max-width: 85%;
+  max-height: 100%;
+
+  width: 60%;
+  height: 95%;
+  border-radius: 25%;
+  padding-top: 5%;
+
+  /* padding-left: 2%; */
+}
+
+.edu-text {
+  padding-top: 5%;
+}
+
+.edu-list {
+  font-size: larger;
+}

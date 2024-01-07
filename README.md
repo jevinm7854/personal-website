@@ -1,5 +1,5 @@
 This is my personal portfolio website. 
 
-Buiilt using React.js
+Built using React.js
 
-Work in progress
+Work in progress...

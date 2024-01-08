@@ -3,19 +3,8 @@
   max-height: 100%;
 
   width: 60%;
-  height: 95%;
-  border-radius: 25%;
-  padding-top: 5%;
-
-  /* padding-left: 2%; */
-}
-.img-edu-purdue {
-  max-width: 85%;
-  max-height: 100%;
-
-  width: 60%;
-  height: 95%;
-  border-radius: 25%;
+  height: 100%;
+  border-radius: 90%;
   padding-top: 5%;
 
   /* padding-left: 2%; */
@@ -27,4 +16,24 @@
 
 .edu-list {
   font-size: larger;
+}
+
+.img-exp {
+  max-width: 100%;
+
+  padding: 2%;
+}
+
+.exp-row {
+  padding: 2%;
+}
+
+.acc-main {
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.main_div {
+  padding-bottom: 0%;
 }

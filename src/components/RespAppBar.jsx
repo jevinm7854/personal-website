@@ -157,7 +157,7 @@ const RespAppBar = () => {
                 component="div"
                 sx={{ flexGrow: 1, textAlign: "left" }}
               >
-                Jevin Modi's portfolio
+                Jevin Modi's personal website
               </Typography>
             </>
           )}

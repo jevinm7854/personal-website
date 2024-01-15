@@ -29,7 +29,7 @@ const Experience = () => {
                 <Typography>
                   <h5>Honeywell Intelligrated- Mason, OH</h5>
                   <ul>
-                    <li>Software Engineer 1</li>
+                    <li>Software Engineer I</li>
                     <li>March 2022- January 2023</li>
                   </ul>
                   <p>Responsibilities-</p>

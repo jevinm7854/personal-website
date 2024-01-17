@@ -1,5 +1,6 @@
 // ResponsiveAppBar.js
 import React from "react";
+import "../styles/respappbar.css"
 import {
   AppBar,
   Toolbar,
@@ -186,7 +187,7 @@ const RespAppBar = () => {
           ) : (
             <div>
               {menuItems.map((item, index) => (
-                <Button color="inherit" key={index} onClick={item.onClick}>
+                <Button color="inherit" key={index} onClick={item.onClick} className="resp-app-bar-button">
                   {item.label}
                 </Button>
               ))}

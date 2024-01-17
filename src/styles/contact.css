@@ -1,0 +1,51 @@
+.contact-main-div {
+  margin: 10%;
+  padding-left: 1%;
+  font-size: larger;
+  border-style: solid;
+  border-color: black;
+}
+
+.contact-row-div {
+  margin: 1%;
+}
+
+.contact-icon-div {
+  padding: 1%;
+}
+
+.contact-row-div-heading {
+  margin: 1%;
+  font-size: x-large;
+}
+
+.contact-img {
+  margin: 5%;
+  margin-left: 20%;
+  max-width: 55%;
+  border-radius: 100%;
+}
+
+.download-bar {
+  width: 80%;
+  padding: 10px;
+  background-color: rgb(25, 118, 210);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.download-bar:hover {
+  background-color: rgb(13, 110, 253);
+}
+
+.contact-bar {
+  max-width: 85%;
+  margin-left: 12%;
+  margin-top: 2%;
+  /* padding-left: 1%; */
+  font-size: large;
+}

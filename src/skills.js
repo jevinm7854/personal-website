@@ -101,7 +101,7 @@ const WebDevelopment = [
   },
   {
     id: 19,
-    name: "RESTful API",
+    name: "REST API",
     link: "https://miro.medium.com/v2/resize:fit:1200/1*-dbPsi8Mdqj5Y0454eGvPQ.png",
   },
   {

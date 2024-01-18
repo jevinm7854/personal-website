@@ -1,6 +1,7 @@
 // Education.js
 import React from "react";
 import { Container, Typography, Card, CardContent, Grid } from "@mui/material";
+import "../styles/education.css";
 
 const Education = () => {
   return (
